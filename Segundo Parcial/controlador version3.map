@@ -1,0 +1,50 @@
+MPLINK 4.30.01, Linker
+Linker Map File - Created Fri Oct 09 16:13:25 2020
+
+                                 Section Info
+                  Section       Type    Address   Location Size(Bytes)
+                ---------  ---------  ---------  ---------  ---------
+                   .org_0       code   0x000000    program   0x000000
+                   .org_1       code   0x000000    program   0x00008e
+
+
+
+                              Program Memory Usage 
+                               Start         End      
+                           ---------   ---------      
+                            0x000000    0x000046      
+            71 out of 8453 program addresses used, program memory utilization is 0%
+
+
+
+                              Symbols - Sorted by Name
+                     Name    Address   Location    Storage File                     
+                ---------  ---------  ---------  --------- ---------                
+                  ADDCONT   0x00002b    program     static E:\Documentos\Repositorios\Parciales_Arqui\Segundo Parcial\controlador version3.asm
+                  ADDHORA   0x000046    program     static E:\Documentos\Repositorios\Parciales_Arqui\Segundo Parcial\controlador version3.asm
+                   ADDMIN   0x00003e    program     static E:\Documentos\Repositorios\Parciales_Arqui\Segundo Parcial\controlador version3.asm
+                    CICLO   0x000016    program     static E:\Documentos\Repositorios\Parciales_Arqui\Segundo Parcial\controlador version3.asm
+                COMPROBAR   0x000028    program     static E:\Documentos\Repositorios\Parciales_Arqui\Segundo Parcial\controlador version3.asm
+                 DIP_LED2   0x000033    program     static E:\Documentos\Repositorios\Parciales_Arqui\Segundo Parcial\controlador version3.asm
+                 DIP_LED3   0x000043    program     static E:\Documentos\Repositorios\Parciales_Arqui\Segundo Parcial\controlador version3.asm
+                 LIMPIEZA   0x000036    program     static E:\Documentos\Repositorios\Parciales_Arqui\Segundo Parcial\controlador version3.asm
+                  ON_LEDS   0x00001e    program     static E:\Documentos\Repositorios\Parciales_Arqui\Segundo Parcial\controlador version3.asm
+                  RETARDO   0x000025    program     static E:\Documentos\Repositorios\Parciales_Arqui\Segundo Parcial\controlador version3.asm
+
+
+
+                              Symbols - Sorted by Address
+                     Name    Address   Location    Storage File                     
+                ---------  ---------  ---------  --------- ---------                
+                    CICLO   0x000016    program     static E:\Documentos\Repositorios\Parciales_Arqui\Segundo Parcial\controlador version3.asm
+                  ON_LEDS   0x00001e    program     static E:\Documentos\Repositorios\Parciales_Arqui\Segundo Parcial\controlador version3.asm
+                  RETARDO   0x000025    program     static E:\Documentos\Repositorios\Parciales_Arqui\Segundo Parcial\controlador version3.asm
+                COMPROBAR   0x000028    program     static E:\Documentos\Repositorios\Parciales_Arqui\Segundo Parcial\controlador version3.asm
+                  ADDCONT   0x00002b    program     static E:\Documentos\Repositorios\Parciales_Arqui\Segundo Parcial\controlador version3.asm
+                 DIP_LED2   0x000033    program     static E:\Documentos\Repositorios\Parciales_Arqui\Segundo Parcial\controlador version3.asm
+                 LIMPIEZA   0x000036    program     static E:\Documentos\Repositorios\Parciales_Arqui\Segundo Parcial\controlador version3.asm
+                   ADDMIN   0x00003e    program     static E:\Documentos\Repositorios\Parciales_Arqui\Segundo Parcial\controlador version3.asm
+                 DIP_LED3   0x000043    program     static E:\Documentos\Repositorios\Parciales_Arqui\Segundo Parcial\controlador version3.asm
+                  ADDHORA   0x000046    program     static E:\Documentos\Repositorios\Parciales_Arqui\Segundo Parcial\controlador version3.asm
+
+
